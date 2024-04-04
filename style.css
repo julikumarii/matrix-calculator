@@ -1,0 +1,66 @@
+body{
+    margin:0;
+    padding:0;
+   
+   
+}
+h2,h3{
+    text-align: center;
+}
+input[type="text"] {
+    width: 50px;
+   
+}
+.app{
+width: 600px;
+height: 600px;
+position: absolute;
+top: 0%;
+left: 25%;
+background-color:#da9dad;
+padding: 2px 60px;
+}
+
+div {
+    width: max-content;
+    overflow-y: auto;
+
+}
+
+#calcButton {
+    visibility: hidden;
+    padding: 5px 15px;
+    margin-top: 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+
+}
+
+#calcButton:hover {
+    background-color: #45a049;
+
+}
+
+.matrixInputs {
+    border: none;
+  
+} */
+input[type="text"] {
+    width: 50px;
+   
+}
+
+div {
+    width: max-content;
+    overflow-y: auto;
+
+}
+button{
+    border: none;
+    border-radius: 1px;
+    background-color: hsl(206, 81%, 50%);
+}
+
